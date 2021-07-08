@@ -7,7 +7,7 @@
     "express": "^4.17.1",
     "moment": "^2.29.1"
   },
-  "devDependencies": {},
+  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"},
@@ -16,5 +16,4 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies":{"express":"^4.17.1"}
-}
+  
